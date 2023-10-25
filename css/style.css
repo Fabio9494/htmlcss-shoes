@@ -7,7 +7,6 @@
 /* header*/
 header{
     background-color:rgba(0, 0, 0, 0);
-    
     position: fixed;
     z-index: 1;
     width: 100%;
@@ -29,7 +28,7 @@ li{
 }
 
 /*main*/
-.conteiner{
+.container{
     width: 100%;  
 }
 
